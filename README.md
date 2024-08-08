@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Lab Recreate</b>
-  - [Creating a Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Lab](https://github.com/workinprogress)
 
 
 <h2> 🤳 Connect with me:</h2>
