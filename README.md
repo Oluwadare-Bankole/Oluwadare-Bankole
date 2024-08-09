@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Lab Recreate</b>
-  - [Creating a Lab](https://github.com/ActiveDirectoryWindowsServer22)
+  - [Active Directory Infrastructure](https://github.com/ActiveDirectoryWindowsServer22)
 
 
 <h2> 🤳 Connect with me:</h2>
