@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Lab Recreate</b>
-  - [Active Directory Infrastructure](https://github.com/ActiveDirectoryWindowsServer22)
+- <b>Active Directory Infrastructure Lab Creation</b>
+  - [Active Directory Infrastructure](https://github.com/Oluwadare-Bankole/ActiveDirectoryWindowsServer22)
 
 
 <h2> 🤳 Connect with me:</h2>
