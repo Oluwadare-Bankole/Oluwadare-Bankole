@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oluwadare! <br/> <a href="https://www.linkedin.com/in/oluwadareb/"> IT Professional/Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Oluwadare! <br/> <a href="https://www.linkedin.com/in/oluwadareb/"> Cybersecurity Enthusiast</a>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
