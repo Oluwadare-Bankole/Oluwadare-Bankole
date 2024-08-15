@@ -5,6 +5,9 @@
 
 - <b>Active Directory Infrastructure Lab Creation</b>
   - [Active Directory Infrastructure](https://github.com/Oluwadare-Bankole/ActiveDirectoryWindowsServer22)
+  - [Elastic SIEM Configuration](https://github.com/Oluwadare-Bankole/ElasticSIEM)
+ 
+  
 
 
 <h2> 🤳 Connect with me:</h2>
